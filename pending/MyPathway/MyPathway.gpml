@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="New Pathway" Version="20250821" Organism="Anopheles gambiae">
+  <Graphics BoardWidth="538.0" BoardHeight="291.5" />
+  <DataNode TextLabel="Test" GraphId="ed33a" Type="GeneProduct">
+    <Graphics CenterX="463.0" CenterY="249.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>
+
